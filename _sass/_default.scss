@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color: $cloudy;
+    color: #1ebec9;
     font-weight: bold;
     text-decoration: none;
 
@@ -39,7 +39,7 @@ blockquote {
         position: absolute;
         bottom: -35px;
         font-size: 15px;
-        color: $iron;
+        color: #1ebec9;
         letter-spacing: 0px;
         left:0px;
         right: 0px;
@@ -59,7 +59,7 @@ blockquote {
 }
 
 strong {
-    color: #1ebec9;
+    color: $iron;
 }
 
 /* =Header */
@@ -79,12 +79,12 @@ strong {
 .logo {
     font-size: 50px;
     font-weight: 700;
-    color: #1ebec9;
+    color: $iron;
     display: block;
 }
 
 .menu {
-    color: #1ebec9;
+    color: $cloudy;
     font-size: 18px;
     margin:0px;
     margin-top: 6px;
@@ -108,7 +108,7 @@ strong {
 .social-links {
     float:right;
     font-size: 24px;
-    color: #1ebec9;
+    color: $cloudy;
     list-style-type: none;
 }
 
@@ -132,7 +132,7 @@ strong {
 .page-title__subtitle {
     font-weight: 400;
     font-size: 22px;
-    color: #1ebec9;
+    color: $cloudy;
 }
 
 .post-title {
@@ -161,27 +161,27 @@ strong {
 
 .post-teaser__title {
     font-size: 22px;
-    color: #1ebec9;
+    color: $iron;
 }
 
 .post-teaser__date {
     font-size: 16px;
     float: right;
     vertical-align: middle;
-    color: #1ebec9;
+    color: $cloudy;
 }
 
 .empty-post-list {
     font-size: 22px;
     font-weight: 700;
-    color: #1ebec9;
+    color: $iron;
     text-align: center;
 }
 
 /* =Explore */
 .explore {
     text-align: center;
-    color: #1ebec9;
+    color: $cloudy;
     margin-top: 140px;
 }
 
@@ -208,13 +208,13 @@ strong {
 }
 
 .categories__item a {
-    color: #1ebec9;
+    color: $iron;
 }
 
 .categories__item:after {
     content: "/";
     margin-left: 6px;
-    color: #1ebec9;
+    color: $cloudy;
 }
 
 .categories__item:last-child:after {
@@ -225,7 +225,7 @@ strong {
 
 /* =Post page */
 .about {
-    color: #1ebec9;
+    color: $cloudy;
     margin-top: 70px;
     text-align: center;
     line-height: 24px;
