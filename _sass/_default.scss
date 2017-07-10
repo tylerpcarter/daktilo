@@ -36,7 +36,7 @@ blockquote {
     text-align: center;
     position: relative;
 
- /* == */ 
+ /* =Lime Green= */ 
     footer {
         position: absolute;
         bottom: -35px;
@@ -50,10 +50,11 @@ blockquote {
         &:after { content: " **"; }
     }
 
-    p {
+ /* =Purple= */ 
+    p {  
         display: inline;
         font-size: 20px;
-        color: $cloudy;
+        color: #e900ff;
         font-weight: 400;
         &:before { content: "“ "; }
         &:after { content: " ”"; }
