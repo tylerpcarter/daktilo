@@ -1,12 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me
 subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello, welcome to my humble abode. You're probably wondering who I am.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Name: Tyler Carter <br />
+Year: Senior at UNC <br /> <br />
+Hobbies: Soccer, Music, Video Games, *cough* **web development** *cough*, Smoothies,
+Long walks on beaches, Weight Lifting, Gaaaaiiinnnnzzz <br /> <br />
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Dislikes: Jimmy from 7th grade, yea **** you Jimmy, melting ice cream, 
+Nine inch nails (the band). also nine inch nails (on fingers). <br /> <br />
+
+If I was a car I'd be: A golf cart.
+
