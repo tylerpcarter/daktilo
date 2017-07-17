@@ -44,4 +44,4 @@ pandoc -S -o $file.txt $file.md
 echo "Coverted $file to HTML, DOCX, ODT, PDF, TEX, and TXT."
 {% endhighlight %}
 
-[Link to Docx](/tylerpcarter-convert-documents/replication-and-decline.docx)
+
