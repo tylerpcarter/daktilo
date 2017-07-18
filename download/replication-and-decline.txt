@@ -1,0 +1,68 @@
+**Question 1: Define replication and the decline effect. Discuss their importance.**
+====================================================================================
+
+Replication refers to the practice of recreating the conditions of an
+experiment (and the steps followed), using different test subjects, in
+an effort to confirm the results of previous trials of the experiment.
+Called “the foundation of modern research” in paragraph three,
+replication can be used to confirm a new drug’s effectiveness. In the
+scientific research process, replication is used to correct the
+naturally occurring error amongst researchers of noticing and accepting
+results that they hypothesized. Because of this tendency, researchers
+may inadvertently ignore/manipulate data to confirm their preconceived
+expectations for the outcome of an experiment. Replication serves to
+eliminate this “flaw”; the scientific community can step in and try to
+confirm the results of the experiment by replicating it (Paragraph 3).
+
+Joseph Rhine performed an experiment to test the existence of
+extrasensory perception, or ESP. In this experiment, one subject showed
+the possibility of having ESP. (Paragraph 13). However, when Rhine tried
+to replicate the experiment he found that the test subject’s supposed
+ESP had seemingly vanished. Rhine was the first to call this the
+“decline effect”; the disappearance of statistical evidence supporting a
+scientific claim (that ESP existed, in Rhine’s case). Since Rhine named
+this phenomenon, researchers have noticed how consistently the decline
+effect occurs. Its reoccurrence suggests a flaw in the scientific
+research process; that bias may cause data to be accepted because it
+confirms the hypothesis. The decline effect serves as an important
+reminder that an experiment never proves truth (Paragraph 38).
+
+**Question 2: Describe one potential explanation for the decline effect.**
+==========================================================================
+
+A potential explanation for the decline effect is that initial sample
+sizes may be small and/or contain outliers that skew and indicate a
+groundbreaking outcome. When the experiment is replicated later, the
+total number of subjects sampled increases, which leads to regression
+towards the mean (Paragraph 16). However, this doesn’t explain why the
+results seem to decline in a linear fashion; a fluctuation would be
+expected to occur with randomization. Jonathan Schooler’s experiments
+finding “verbal overshadowing” (Paragraph 6) support this regression
+towards the mean. Initially, Schooler’s experiments indicated a large
+amount of “verbal overshadowing”. After extended replication, Schooler
+noticed less and less among his subjects. Schooler eventually concluded
+in paragraph 8 that “his initial batch of research subjects must have
+been unusually susceptible to verbal overshadowing,” or that his initial
+batch had outliers.
+
+**Question 3: Advantages/Disadvantages of an Open-Source Database**
+===================================================================
+
+An advantage of researches sharing their data via open-source database
+would be that experiment quality would be more readily subject to
+evaluation, meaning that overall researchers would increase experiment
+quality to maintain a reputable image. A disadvantage of sharing data
+this way would be an increase in time spent preparing for an experiment,
+only to have the same outcome anyways. Experimenters would need to spend
+time uploading intentions and results to this database, but in the end
+replication would need to occur to reinforce the original conclusion, no
+matter how legitimate the experiment seems.
+
+To combat the decline effect, I would highly recommend increasing sample
+size to at least thirty for all experiments, as statistically a sample
+size of at least thirty has been proven to show an approximately normal
+distribution that accurately reflects the true population distribution.
+A large enough sample size will incorporate regression to the mean.
+Perhaps by obtaining a statistically significant mean that is close to
+the true mean, we will see a decline in the occurrence of the decline
+effect.
