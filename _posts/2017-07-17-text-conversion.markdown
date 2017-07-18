@@ -46,6 +46,20 @@ pandoc -S -o $file.txt $file.md
 echo "Coverted $file to HTML, DOCX, ODT, PDF, TEX, and TXT."
 {% endhighlight %}
 
-some text and [here is possible to download the file in PDF][1]
+Document available in forms below:
+- [MD][1]
+- [HTML][2]
+- [DOCX][3]
+- [ODT][4]
+- [PDF][5]
+- [TEX][6]
+- [TXT][7]
 
-[1]:tylerpcarter.github.io/download/replication-and-decline.docx
+
+[1]:tylerpcarter.github.io/download/replication-and-decline.md
+[2]:tylerpcarter.github.io/download/replication-and-decline.html
+[3]:tylerpcarter.github.io/download/replication-and-decline.docx
+[4]:tylerpcarter.github.io/download/replication-and-decline.odt
+[5]:tylerpcarter.github.io/download/replication-and-decline.pdf
+[6]:tylerpcarter.github.io/download/replication-and-decline.tex
+[7]:tylerpcarter.github.io/download/replication-and-decline.txt
