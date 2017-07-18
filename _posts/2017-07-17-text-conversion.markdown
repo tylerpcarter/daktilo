@@ -44,4 +44,6 @@ pandoc -S -o $file.txt $file.md
 echo "Coverted $file to HTML, DOCX, ODT, PDF, TEX, and TXT."
 {% endhighlight %}
 
-Link Address: http://jekyll-tylercartergse2013485235.codeanyapp.com:4000/replication-and-decline.docx
+some text and [here is possible to download the file in PDF][1]
+
+[1]:tylerpcarter.github.io/download/replication-and-decline.docx
