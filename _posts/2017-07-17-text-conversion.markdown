@@ -32,7 +32,7 @@ pandoc -S -o $file.odt $file.md
 
 # Convert markdown to PDF
 echo "Converting paper to PDF document."
-pandoc -o replication-and-decline.pdf --latex-engine=pdflatex $file.md
+pandoc -o $file.pdf --latex-engine=pdflatex $file.md
 
 # Convert markdown to TEX
 echo "Converting paper to LATEX document."
