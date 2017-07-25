@@ -28,9 +28,9 @@ repository with a timestamp filename.repository
   **3.** "Who is your favorite superhero?"
 
   **4.** "What is the first video game you ever played?"
-
+ 
   **5.** "What percentage of germs do hand sanitizers promise to eliminate?"
 
 
-<p style="text-align: center;">**[LINK TO GITHUB REPOSITORY HERE](https://github.com/tylerpcarter/task-4-data)**</p>
+     **[LINK TO GITHUB REPOSITORY HERE](https://github.com/tylerpcarter/task-4-data)**
 
