@@ -31,5 +31,5 @@ repository with a timestamp filename.repository
 **5.** "What percentage of germs do hand sanitizers promise to eliminate?"
 
 
-**[LINK TO GITHUB REPOSITORY HERE](https://github.com/tylerpcarter/task-4-data)**
+<p style="text-align: center;">**[LINK TO GITHUB REPOSITORY HERE](https://github.com/tylerpcarter/task-4-data)**</p>
 
