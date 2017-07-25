@@ -7,11 +7,11 @@ categories: [design, tool]
 ---
 **This Script:**
 
-*Creates a list of five survey-type questions, then prompts the user to answer them. A unique identifier tag is added to the user's input. Then,a timestamp is recorded.Creates
+* Creates a list of five survey-type questions, then prompts the user to answer them. A unique identifier tag is added to the user's input. Then,a timestamp is recorded.Creates
 
-*After recording all data, a CSV file is created where that data is then trasferred into a MySQL database that has appropriated variables and variable types for the survey questions. 
+* After recording all data, a CSV file is created where that data is then trasferred into a MySQL database that has appropriated variables and variable types for the survey questions. 
 
-*A script then writes the data into the MySQL Database and creates a table in the database if one hasn't been created. After populating the table, the MySQL database is then dumped into a .sql file in the
+* A script then writes the data into the MySQL Database and creates a table in the database if one hasn't been created. After populating the table, the MySQL database is then dumped into a .sql file in the
 repository with a timestamp filename.repository
 
 
