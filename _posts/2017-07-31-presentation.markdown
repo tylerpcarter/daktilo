@@ -15,3 +15,7 @@ This presentation is about the negative consequences of pesticide use with agric
 To do this, I used the INSTRUCTIONS.md as a guideline to produce reveal.md, which contains the content of the presentation. Next, I used the provided script to convert reveal.md into an appropriated html document, index.html, that produced the presentation. The audio files were uploaded into the audio directory and data-audio-src="audio/filename.ogg" was added to every slide title tag.
 
 **[LINK TO PESTICIDE PRESENTATION](https://tylerpcarter.github.io/task-5-presentation/#/)
+
+
+
+**[Link to banned pesticides](https://www.epa.gov/pesticide-worker-safety/restricted-use-products-rup-report)
