@@ -6,6 +6,8 @@ date:   2017-07-17 16:28:45
 categories: [tool]
 ---
 
+This page is dedicated to my one and only true friend, sanjorge11.
+
 Below is a script written to convert a document in markdown to a variety of document types, such as HTML, ODT, DOCX, etc. When the script is run, the user will be notified along the way which document type is being produced from the conversion script.
 
 To get it into multiple formats, we utilizted pandoc's document conversion toolset. The script executes the pandoc -S -o [*.(desired document conversion type)] [(original.md)]
